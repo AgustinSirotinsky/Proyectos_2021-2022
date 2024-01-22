@@ -1,0 +1,61 @@
+1)
+SELECT * FROM Album
+2)
+SELECT TOP 1 titulo,FechaCreacion,cantcanciones FROM Playlist ORDER BY cantcanciones DESC
+3)
+SELECT TOP 1 titulo,Fechacreacion FROM playlist WHERE titulo LIKE '%A%' ORDER BY Fechacreacion DESC
+4)
+SELECT TOP 5 Nombreusuario, idTipoUsuario, Pais_idPais, fechanac FROM Usuario ORDER BY fechanac desc
+5)
+INSERT INTO usuario (idUsuario, nombreUsuario, nyap, fechanac, sexo, CP, password, Pais_idPais, IdTipoUsuario, FechaPassword) 
+	VALUES (1,'miusuariodeDiz3r@gmail.com','Patricio Estrella','1995-11-15','F','B1429ATF','S1234m',1,1,NULL)
+6)
+DELETE FROM GeneroxCancion WHERE IdGenero=12
+7)
+SELECT TOP 1 titulo FROM Cancion ORDER BY duracion ASC
+8)
+declare @nombreusuario varchar(50)
+set  @nombreusuario = 'IBALLESTEROS'
+select * from playlist
+where Playlist.idUsuario = (select idUsuario from Usuario where nombreusuario = @nombreusuario)
+9)
+declare @nom varchar(50)
+set @nom = 'Para correr'
+select Cancion.titulo,Artista.Nombre,Cancion.duracion from Playlist
+inner join PlaylistCancion on PlaylistCancion.idPlaylist = Playlist.idPlaylist
+inner join Cancion on Cancion.idCancion = PlaylistCancion.idCancion
+inner join Album on Album.idAlbum = Cancion.idAlbum
+inner join Artista on Artista.idArtista = Album.idArtista
+11)
+delete from Cancion
+where Cancion.idCancion = 1
+12)
+INSERT INTO GeneroCancion (idCancion,idGenero) VALUES (34,16)
+13)
+Select Cancion.titulo, Album.Titulo, discografica.Nombre from Cancion
+inner join Album on Album.idAlbum = Cancion.idAlbum
+inner join discografica on discografica.iddiscografia =album.idDiescografia
+where Cancion.titulo LIKE 'Z%'
+15)
+SELECT Cancion.titulo FROM Cancion
+inner join Album on Album.idAlbum = Cancion.idAlbum
+where Album.imagenportada is null
+16)
+declare @max int
+set @max = (select max(cantreproduccion) from Cancion)
+select Album.Titulo,discografica.Nombre from Album
+inner join discografica on discografica.iddiscografia = Album.idDiescografia
+inner join Cancion on Cancion.idAlbum = Album.idAlbum
+where Cancion.cantreproduccion = @max
+17)
+select * from Cancion
+where cantreproduccion is not NULL
+18)
+select * from Artista
+left join Album on Album.idArtista = Artista.idArtista
+where idAlbum is null
+19)
+select Cancion.titulo,Album.Titulo,Cancion.duracion,Cancion.cantreproduccion,Cancion.cantlikes,(cantreproduccion/cantlikes) as promedio from Cancion
+inner join Album on Album.idAlbum = Cancion.idAlbum
+inner join Artista on Artista.idArtista = Album.idArtista 
+where artista.nombre = 'Pink Floyd'

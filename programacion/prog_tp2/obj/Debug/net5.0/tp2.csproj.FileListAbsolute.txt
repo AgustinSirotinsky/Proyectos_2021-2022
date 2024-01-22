@@ -1,0 +1,32 @@
+D:\programacion\tp2\obj\Debug\net5.0\tp2.csprojAssemblyReference.cache
+D:\programacion\tp2\obj\Debug\net5.0\tp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\tp2\obj\Debug\net5.0\tp2.AssemblyInfoInputs.cache
+D:\programacion\tp2\obj\Debug\net5.0\tp2.AssemblyInfo.cs
+D:\programacion\tp2\obj\Debug\net5.0\tp2.csproj.CoreCompileInputs.cache
+D:\programacion\tp2\bin\Debug\net5.0\tp2.exe
+D:\programacion\tp2\bin\Debug\net5.0\tp2.deps.json
+D:\programacion\tp2\bin\Debug\net5.0\tp2.runtimeconfig.json
+D:\programacion\tp2\bin\Debug\net5.0\tp2.runtimeconfig.dev.json
+D:\programacion\tp2\bin\Debug\net5.0\tp2.dll
+D:\programacion\tp2\bin\Debug\net5.0\ref\tp2.dll
+D:\programacion\tp2\bin\Debug\net5.0\tp2.pdb
+D:\programacion\tp2\obj\Debug\net5.0\tp2.dll
+D:\programacion\tp2\obj\Debug\net5.0\ref\tp2.dll
+D:\programacion\tp2\obj\Debug\net5.0\tp2.pdb
+D:\programacion\tp2\obj\Debug\net5.0\tp2.genruntimeconfig.cache
+D:\Cosas Importantes Agus\programacion\prog_tp2\bin\Debug\net5.0\tp2.exe
+D:\Cosas Importantes Agus\programacion\prog_tp2\bin\Debug\net5.0\tp2.deps.json
+D:\Cosas Importantes Agus\programacion\prog_tp2\bin\Debug\net5.0\tp2.runtimeconfig.json
+D:\Cosas Importantes Agus\programacion\prog_tp2\bin\Debug\net5.0\tp2.runtimeconfig.dev.json
+D:\Cosas Importantes Agus\programacion\prog_tp2\bin\Debug\net5.0\tp2.dll
+D:\Cosas Importantes Agus\programacion\prog_tp2\bin\Debug\net5.0\tp2.pdb
+D:\Cosas Importantes Agus\programacion\prog_tp2\obj\Debug\net5.0\tp2.csproj.AssemblyReference.cache
+D:\Cosas Importantes Agus\programacion\prog_tp2\obj\Debug\net5.0\tp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas Importantes Agus\programacion\prog_tp2\obj\Debug\net5.0\tp2.AssemblyInfoInputs.cache
+D:\Cosas Importantes Agus\programacion\prog_tp2\obj\Debug\net5.0\tp2.AssemblyInfo.cs
+D:\Cosas Importantes Agus\programacion\prog_tp2\obj\Debug\net5.0\tp2.csproj.CoreCompileInputs.cache
+D:\Cosas Importantes Agus\programacion\prog_tp2\obj\Debug\net5.0\tp2.dll
+D:\Cosas Importantes Agus\programacion\prog_tp2\obj\Debug\net5.0\refint\tp2.dll
+D:\Cosas Importantes Agus\programacion\prog_tp2\obj\Debug\net5.0\tp2.pdb
+D:\Cosas Importantes Agus\programacion\prog_tp2\obj\Debug\net5.0\tp2.genruntimeconfig.cache
+D:\Cosas Importantes Agus\programacion\prog_tp2\obj\Debug\net5.0\ref\tp2.dll

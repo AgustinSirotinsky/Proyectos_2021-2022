@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<body>
+    <div class="container">
+        <div class="text-center">
+            <img src="Logo.png" alt="Logo" width="500px" >
+        </div>
+   
+    <div class="row"></div>
+    <div class="row"></div>
+    <div class="row"></div>
+    
+    </div>
+    
+    <div class="row">
+    <div class="col-5"></div>
+    <div class="col-2">
+        <form method="get" action='@Url.Action("Player","Home")' enctype="multipart/form-data">
+            <input class="form-control" type="text"  name="Nombre" maxlength="30" placeholder="Ingrese su nombre" size="20"/> 
+            <input type="image" src="/botones/botonJugar.png" action='@Url.Action("Player","Home")'>
+        </form>
+    </div>
+
+</body>
+

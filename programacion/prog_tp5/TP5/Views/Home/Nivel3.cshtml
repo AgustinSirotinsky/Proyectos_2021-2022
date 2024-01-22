@@ -1,0 +1,17 @@
+<div class="text-center">
+    <h1 class="display-4">Nivel 3</h1>
+    <h5>Sonara un sonido y tendras que adivinar de que consola viene</h5>
+    
+    <!--Audio-->
+    <audio controls autoplay>
+        <source src="xboxstartupsound.mp3" type="audio/mp3">
+    </audio>
+
+    <form class="form-inline" method='post' action='@Url.Action("Correcion","Home")'>
+    <input class="form-control mr-sm-2" type="search" name="clave" placeholder="Juego" aria-label="Search" autocomplete="off">
+    <input type="hidden" name="sala" value="3" >
+    <input class="btn btn-outline-primary my-2 my-sm-0" type="submit" value="Ingresar">
+    </form>
+    <button onclick="alert('Pista: Lleva 360 en el nombre')"> Pista </button>
+    <h4>@ViewBag.MensajeError</h4>
+</div>

@@ -1,0 +1,22 @@
+<div class="text-center">
+  @{
+    <h1>@ViewBag.Equipo.Nombre</h1>
+    <h2>Continente: @ViewBag.Equipo.Continente</h2>
+    <h2>Copas ganadas: @ViewBag.Equipo.CopasGanadas</h2>
+  }
+  <br>
+  <h2>Jugadores:</h2>
+  <ul>
+    <div class="row"></div>
+    @{
+        foreach (Jugador objJugador in ViewBag.Jugadores)
+        {
+          <img src="/@objJugador.Foto" width="200px">
+          <a href ='@Url.Action("DetalleJugador","Home",new {IdJugador=objJugador.IdJugador})'><button type="button" class="btn btn-info">@objJugador.Nombre</button></a>
+          <br><br>
+         }
+        <a href ='@Url.Action("AgregarJugador","Home",new {IdEquipo=ViewBag.Equipo.IdEquipo})'><button type="button" class="btn btn-success">Agregar Jugador</button></a>
+    }
+    </div>
+  </ul>
+</div>

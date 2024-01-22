@@ -1,0 +1,32 @@
+D:\programacion\tp0\bin\Debug\net5.0\tp0.exe
+D:\programacion\tp0\bin\Debug\net5.0\tp0.deps.json
+D:\programacion\tp0\bin\Debug\net5.0\tp0.runtimeconfig.json
+D:\programacion\tp0\bin\Debug\net5.0\tp0.runtimeconfig.dev.json
+D:\programacion\tp0\bin\Debug\net5.0\tp0.dll
+D:\programacion\tp0\bin\Debug\net5.0\ref\tp0.dll
+D:\programacion\tp0\bin\Debug\net5.0\tp0.pdb
+D:\programacion\tp0\obj\Debug\net5.0\tp0.csprojAssemblyReference.cache
+D:\programacion\tp0\obj\Debug\net5.0\tp0.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\tp0\obj\Debug\net5.0\tp0.AssemblyInfoInputs.cache
+D:\programacion\tp0\obj\Debug\net5.0\tp0.AssemblyInfo.cs
+D:\programacion\tp0\obj\Debug\net5.0\tp0.csproj.CoreCompileInputs.cache
+D:\programacion\tp0\obj\Debug\net5.0\tp0.dll
+D:\programacion\tp0\obj\Debug\net5.0\ref\tp0.dll
+D:\programacion\tp0\obj\Debug\net5.0\tp0.pdb
+D:\programacion\tp0\obj\Debug\net5.0\tp0.genruntimeconfig.cache
+D:\Cosas Importantes Agus\programacion\prog_tp0\bin\Debug\net5.0\tp0.exe
+D:\Cosas Importantes Agus\programacion\prog_tp0\bin\Debug\net5.0\tp0.deps.json
+D:\Cosas Importantes Agus\programacion\prog_tp0\bin\Debug\net5.0\tp0.runtimeconfig.json
+D:\Cosas Importantes Agus\programacion\prog_tp0\bin\Debug\net5.0\tp0.runtimeconfig.dev.json
+D:\Cosas Importantes Agus\programacion\prog_tp0\bin\Debug\net5.0\tp0.dll
+D:\Cosas Importantes Agus\programacion\prog_tp0\bin\Debug\net5.0\tp0.pdb
+D:\Cosas Importantes Agus\programacion\prog_tp0\obj\Debug\net5.0\tp0.csproj.AssemblyReference.cache
+D:\Cosas Importantes Agus\programacion\prog_tp0\obj\Debug\net5.0\tp0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas Importantes Agus\programacion\prog_tp0\obj\Debug\net5.0\tp0.AssemblyInfoInputs.cache
+D:\Cosas Importantes Agus\programacion\prog_tp0\obj\Debug\net5.0\tp0.AssemblyInfo.cs
+D:\Cosas Importantes Agus\programacion\prog_tp0\obj\Debug\net5.0\tp0.csproj.CoreCompileInputs.cache
+D:\Cosas Importantes Agus\programacion\prog_tp0\obj\Debug\net5.0\tp0.dll
+D:\Cosas Importantes Agus\programacion\prog_tp0\obj\Debug\net5.0\refint\tp0.dll
+D:\Cosas Importantes Agus\programacion\prog_tp0\obj\Debug\net5.0\tp0.pdb
+D:\Cosas Importantes Agus\programacion\prog_tp0\obj\Debug\net5.0\tp0.genruntimeconfig.cache
+D:\Cosas Importantes Agus\programacion\prog_tp0\obj\Debug\net5.0\ref\tp0.dll

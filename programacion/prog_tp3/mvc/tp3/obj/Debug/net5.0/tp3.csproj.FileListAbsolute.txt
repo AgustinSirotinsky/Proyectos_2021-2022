@@ -1,0 +1,122 @@
+D:\programacion\mvc\tp3\bin\Debug\net5.0\appsettings.Development.json
+D:\programacion\mvc\tp3\bin\Debug\net5.0\appsettings.json
+D:\programacion\mvc\tp3\bin\Debug\net5.0\tp3.exe
+D:\programacion\mvc\tp3\bin\Debug\net5.0\tp3.deps.json
+D:\programacion\mvc\tp3\bin\Debug\net5.0\tp3.runtimeconfig.json
+D:\programacion\mvc\tp3\bin\Debug\net5.0\tp3.runtimeconfig.dev.json
+D:\programacion\mvc\tp3\bin\Debug\net5.0\tp3.dll
+D:\programacion\mvc\tp3\bin\Debug\net5.0\ref\tp3.dll
+D:\programacion\mvc\tp3\bin\Debug\net5.0\tp3.pdb
+D:\programacion\mvc\tp3\bin\Debug\net5.0\tp3.Views.dll
+D:\programacion\mvc\tp3\bin\Debug\net5.0\tp3.Views.pdb
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.csprojAssemblyReference.cache
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.AssemblyInfoInputs.cache
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.AssemblyInfo.cs
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.csproj.CoreCompileInputs.cache
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.MvcApplicationPartsAssemblyInfo.cache
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.RazorAssemblyInfo.cache
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.RazorAssemblyInfo.cs
+D:\programacion\mvc\tp3\obj\Debug\net5.0\staticwebassets\tp3.StaticWebAssets.Manifest.cache
+D:\programacion\mvc\tp3\obj\Debug\net5.0\staticwebassets\tp3.StaticWebAssets.xml
+D:\programacion\mvc\tp3\obj\Debug\net5.0\scopedcss\bundle\tp3.styles.css
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.TagHelpers.input.cache
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.TagHelpers.output.cache
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.RazorCoreGenerate.cache
+D:\programacion\mvc\tp3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\programacion\mvc\tp3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\programacion\mvc\tp3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\programacion\mvc\tp3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\programacion\mvc\tp3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\programacion\mvc\tp3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\programacion\mvc\tp3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.RazorTargetAssemblyInfo.cache
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.RazorTargetAssemblyInfo.cs
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.Views.pdb
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.dll
+D:\programacion\mvc\tp3\obj\Debug\net5.0\ref\tp3.dll
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.pdb
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.genruntimeconfig.cache
+D:\programacion\mvc\tp3\obj\Debug\net5.0\tp3.csproj.CopyComplete
+D:\programacion\mvc\tp3\obj\Debug\net5.0\Razor\Views\Home\resultados.cshtml.g.cs
+D:\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\appsettings.Development.json
+D:\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\appsettings.json
+D:\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.exe
+D:\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.deps.json
+D:\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.runtimeconfig.json
+D:\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.runtimeconfig.dev.json
+D:\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.dll
+D:\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\ref\tp3.dll
+D:\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.pdb
+D:\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.Views.dll
+D:\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.Views.pdb
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.csprojAssemblyReference.cache
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.AssemblyInfoInputs.cache
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.AssemblyInfo.cs
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.csproj.CoreCompileInputs.cache
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.MvcApplicationPartsAssemblyInfo.cache
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.RazorAssemblyInfo.cache
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.RazorAssemblyInfo.cs
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\staticwebassets\tp3.StaticWebAssets.Manifest.cache
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\staticwebassets\tp3.StaticWebAssets.xml
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\scopedcss\bundle\tp3.styles.css
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.TagHelpers.input.cache
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.TagHelpers.output.cache
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.RazorCoreGenerate.cache
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\Razor\Views\Home\resultados.cshtml.g.cs
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.RazorTargetAssemblyInfo.cache
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.RazorTargetAssemblyInfo.cs
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.Views.pdb
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.dll
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\ref\tp3.dll
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.pdb
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.genruntimeconfig.cache
+D:\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.csproj.CopyComplete
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\appsettings.Development.json
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\appsettings.json
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.StaticWebAssets.xml
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.exe
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.deps.json
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.runtimeconfig.json
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.runtimeconfig.dev.json
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.dll
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.pdb
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.Views.dll
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\bin\Debug\net5.0\tp3.Views.pdb
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.csproj.AssemblyReference.cache
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.AssemblyInfoInputs.cache
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.AssemblyInfo.cs
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.csproj.CoreCompileInputs.cache
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.MvcApplicationPartsAssemblyInfo.cache
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.RazorAssemblyInfo.cache
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.RazorAssemblyInfo.cs
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\scopedcss\bundle\tp3.styles.css
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\staticwebassets\tp3.StaticWebAssets.Manifest.cache
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.TagHelpers.input.cache
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.TagHelpers.output.cache
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.RazorCoreGenerate.cache
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\Razor\Views\Home\resultados.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.RazorTargetAssemblyInfo.cache
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.RazorTargetAssemblyInfo.cs
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.Views.pdb
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.dll
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\refint\tp3.dll
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.pdb
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.genruntimeconfig.cache
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\ref\tp3.dll
+D:\Cosas Importantes Agus\programacion\prog_tp3\mvc\tp3\obj\Debug\net5.0\tp3.csproj.CopyComplete

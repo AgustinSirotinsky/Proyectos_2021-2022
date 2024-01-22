@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <head>
+        <title>pagina web</title>
+    </head>
+    <body>
+        <!--Ingreso con texto-->
+        <form method="post" action="gracias.html">
+            <p>Ingrese su Usuario y Contraseña</p>
+            <input type="text" name="nombre" />
+            <input type="password" name ="contraseña" /><br>
+            <input type="text" name="username" placeholder="Enter USERNAME" size="30" maxlength="10" /><br>
+            <input type="color"/><br>
+        </form>
+        <form method="post" action="Privacy.html">
+            <p>Ingrese su Usuario y Contraseña (funcional)</p>
+            <input type="submit">
+            <input type="text" name="usuario" placeholder="Ingrese el nombre de usuario" size="30" maxlength="10" /><br>
+            
+        </form>
+        <!--Ingreso de casillas-->
+        <form method="post" action="gracias.html">
+            <p>comida</p>
+            <input type="checkbox" name ="patatas fritas" id="patatas fritas" /> <label for="patatas fritas">Patatas fritas</label><br>
+            <input type="checkbox" name ="hamburguesa" id="hamburguesa" /> <label for="hamburguesa">Hamburguesa</label><br>
+            <input type="checkbox" name ="pollo" id="pollo" /> <label for="pollo">Pollo</label><br>
+        </form>
+        <form method="post" action="gracias.html">
+            <p>pais</p>
+            <input type="radio" name="pais" value="Argentina" id="Argentina"><label for="Argentina">Argentina</label>
+            <input type="radio" name="pais" value="Rusia" id="Rusia"><label for="Rusia">Rusia</label>
+            <input type="radio" name="pais" value="Estados Unidos" id="Estados Unidos"><label for="Estados Unidos">Estados Unidos</label>
+        </form>
+        </body> 
+</div>

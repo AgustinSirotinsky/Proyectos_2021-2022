@@ -1,0 +1,16 @@
+D:\programacion\tp2-Extra\bin\Debug\net5.0\tp2-Extra.exe
+D:\programacion\tp2-Extra\bin\Debug\net5.0\tp2-Extra.deps.json
+D:\programacion\tp2-Extra\bin\Debug\net5.0\tp2-Extra.runtimeconfig.json
+D:\programacion\tp2-Extra\bin\Debug\net5.0\tp2-Extra.runtimeconfig.dev.json
+D:\programacion\tp2-Extra\bin\Debug\net5.0\tp2-Extra.dll
+D:\programacion\tp2-Extra\bin\Debug\net5.0\ref\tp2-Extra.dll
+D:\programacion\tp2-Extra\bin\Debug\net5.0\tp2-Extra.pdb
+D:\programacion\tp2-Extra\obj\Debug\net5.0\tp2-Extra.csprojAssemblyReference.cache
+D:\programacion\tp2-Extra\obj\Debug\net5.0\tp2-Extra.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\tp2-Extra\obj\Debug\net5.0\tp2-Extra.AssemblyInfoInputs.cache
+D:\programacion\tp2-Extra\obj\Debug\net5.0\tp2-Extra.AssemblyInfo.cs
+D:\programacion\tp2-Extra\obj\Debug\net5.0\tp2-Extra.csproj.CoreCompileInputs.cache
+D:\programacion\tp2-Extra\obj\Debug\net5.0\tp2-Extra.dll
+D:\programacion\tp2-Extra\obj\Debug\net5.0\ref\tp2-Extra.dll
+D:\programacion\tp2-Extra\obj\Debug\net5.0\tp2-Extra.pdb
+D:\programacion\tp2-Extra\obj\Debug\net5.0\tp2-Extra.genruntimeconfig.cache

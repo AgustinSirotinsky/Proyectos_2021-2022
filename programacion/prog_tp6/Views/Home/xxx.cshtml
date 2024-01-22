@@ -1,0 +1,24 @@
+<div class="text-center">
+  holaaa
+    <img src="@ViewBag.Equipo.Escudo" width="200px">
+    <h1>Jugadores:</h1>
+    @{
+      foreach (Jugador objJugador in ViewBag.Jugador)
+      {
+        <img src="@objJugador.Foto" width="200px">
+        <a href ='@Url.Action("DetalleJugador","Home",new {Jugador=objJugador.Nombre})'><button type="button" class="btn btn-info">@objJugador.Nombre</button></a>
+      }
+    }
+
+</div>
+
+
+    public static List<Jugador> ListarJugadores ()
+    {
+        using(SqlConnection db = new SqlConnection(_connectionstring)){
+            string sql = "SELECT * FROM Jugadores";
+            ListadoJugador = db.Query<Jugador>(sql).ToList();
+        }
+        System.Console.WriteLine("Lista hecha de jugadores");
+        return ListadoJugador;
+    } 

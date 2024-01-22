@@ -1,0 +1,12 @@
+<div class="text-center">
+    <h1 class="display-4">Nivel 2</h1>
+    <h5>Tienes que adivinar de que juego estamos hablando</h5>
+</div>
+<h5>Un juego de plataformas que acompañó a la consola Nintendo 64 en su lanzamiento. En su momento era impresivo por el uso del 3D que influenció a muchos a los títulos de su género.</h5>
+    <form class="form-inline" method='post' action='@Url.Action("Correcion","Home")'>
+    <input class="form-control mr-sm-2" type="search" name="clave" placeholder="Juego" aria-label="Search" autocomplete="off">
+    <input type="hidden" name="sala" value="2" >
+    <input class="btn btn-outline-primary my-2 my-sm-0" type="submit" value="Ingresar">
+    </form>
+    <button onclick="alert('Pista: Es uno de los títulos del famoso fontanero de overol azul y con gorra roja')"> Pista </button>
+    <h4>@ViewBag.MensajeError</h4>

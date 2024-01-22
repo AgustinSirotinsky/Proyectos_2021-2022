@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="col5">
+@{
+    foreach (Equipo objEquipo in ViewBag.Equipo)
+    {
+  <img src="@objEquipo.Escudo" width="200px">
+  <a href ='@Url.Action("DetalleEquipo","Home",new {IdEquipo=objEquipo.IdEquipo})'><button type="button" class="btn btn-info">@objEquipo.Nombre</button></a>
+    }
+
+    
+}
+</div>
+</div>
+

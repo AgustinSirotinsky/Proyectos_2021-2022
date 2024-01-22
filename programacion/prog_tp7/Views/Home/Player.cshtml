@@ -1,0 +1,77 @@
+@{
+    ViewData["Title"] = "Player";
+}
+<body>
+    <div class="container">
+        <div class="text-center">
+            <img src="/Logo.png" alt="Logo" width="300px">
+        </div>
+    </div>
+    <h1><FONT COLOR="black"> @ViewBag.Pregunta.TextoPregunta </FONT></h1>
+    <div class="row">
+            <div class="col-8">
+                <div class="container">
+                    <div class="row">
+                            <div class="col-md-2">
+                                <a href='@Url.Action("PreguntaRespondida","Home",new {Opcion1="A"})'><img src="/botones/A.png" class="w-100"></a>
+                            </div>
+                            <div class="col-md-4"> <mark>@ViewBag.Respuestas[0].TextoRespuesta</mark></div>
+                            <div class="col-md-2">
+                                <a href='@Url.Action("PreguntaRespondida","Home",new {Opcion1="B"})'><img src="/botones/B.png" class="w-100"></a>
+                            </div>
+                            <div class="col-md-4"><mark>@ViewBag.Respuestas[1].TextoRespuesta</mark></div>
+                    </div>
+                    <div class="row">
+                            <div class="col-md-2">
+                                <a href='@Url.Action("PreguntaRespondida","Home",new {Opcion1="C"})'><img src="/botones/C.png" class="w-100"></a>
+                            </div>
+                            <div class="col-md-4"><mark>@ViewBag.Respuestas[2].TextoRespuesta</mark></div>
+                            <div class="col-md-2">
+                                <a href='@Url.Action("PreguntaRespondida","Home",new {Opcion1="D"})'><img src="/botones/D.png" class="w-100"></a>
+                            </div>
+                            <div class="col-md-4"><mark>@ViewBag.Respuestas[3].TextoRespuesta</mark></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <h1> Ronda: @ViewBag.Ronda </h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-2">
+                <h1> <FONT COLOR="white"> @ViewBag.Jugador.Nombre </FONT> </h1>
+                <div class="lista">
+                    <li class="list-group-item list-group-item-succes"><b>$2.000.000</b></li>
+                    <li class="list-group-item disabled" aria-disabled="true">$1.000.000</li>
+                    <li class="list-group-item disabled" aria-disabled="true">$750.000</li>
+                    <li class="list-group-item disabled" aria-disabled="true">$500.000</li>
+                    <li class="list-group-item disabled" aria-disabled="true">$400.000</li>
+                    <li class="list-group-item list-group-item-succes"><b>$300.000</b></li>
+                    <li class="list-group-item disabled" aria-disabled="true">$250.000</li>
+                    <li class="list-group-item disabled" aria-disabled="true">$200.000</li>
+                    <li class="list-group-item disabled" aria-disabled="true">$150.000</li>
+                    <li class="list-group-item disabled" aria-disabled="true">$125.000</li>
+                    <li class="list-group-item list-group-item-succes"><b>$100.000</b></li>
+                    <li class="list-group-item disabled" aria-disabled="true">$75.000</li>
+                    <li class="list-group-item disabled" aria-disabled="true">$50.000</li>
+                    <li class="list-group-item disabled" aria-disabled="true">$30.000</li>
+                    <li class="list-group-item disabled" aria-disabled="true">$10.000</li>
+                </div>
+            </div>
+            <div class="col-2">
+                <h1> <FONT COLOR="white"> Pozo: @ViewBag.Pozo </FONT> </h1>
+                <div class="row">
+                    <a href='@Url.Action("comodin50","Home")'><img src="/botones/comodin50.png" class="w-100"></a>
+                </div>
+                <div class="row">
+                    <a href='@Url.Action("SaltearPregunta","Home")'><img src="/botones/comodincambio.png" class="w-100"></a>
+                </div>
+                <div class="row">
+                    <img src="/botones/comodin2daopinion.png" class="w-100">
+                </div>
+                <div class="row">
+                    <img src="/botones/comodinvoto.png" class="w-100">
+                </div>
+            </div>
+    </div> 
+</body>

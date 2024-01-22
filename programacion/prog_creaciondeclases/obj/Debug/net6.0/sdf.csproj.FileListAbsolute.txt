@@ -1,0 +1,30 @@
+C:\Users\46645963\Desktop\sdf\bin\Debug\net6.0\sdf.exe
+C:\Users\46645963\Desktop\sdf\bin\Debug\net6.0\sdf.deps.json
+C:\Users\46645963\Desktop\sdf\bin\Debug\net6.0\sdf.runtimeconfig.json
+C:\Users\46645963\Desktop\sdf\bin\Debug\net6.0\sdf.dll
+C:\Users\46645963\Desktop\sdf\bin\Debug\net6.0\sdf.pdb
+C:\Users\46645963\Desktop\sdf\obj\Debug\net6.0\sdf.csproj.AssemblyReference.cache
+C:\Users\46645963\Desktop\sdf\obj\Debug\net6.0\sdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46645963\Desktop\sdf\obj\Debug\net6.0\sdf.AssemblyInfoInputs.cache
+C:\Users\46645963\Desktop\sdf\obj\Debug\net6.0\sdf.AssemblyInfo.cs
+C:\Users\46645963\Desktop\sdf\obj\Debug\net6.0\sdf.csproj.CoreCompileInputs.cache
+C:\Users\46645963\Desktop\sdf\obj\Debug\net6.0\sdf.dll
+C:\Users\46645963\Desktop\sdf\obj\Debug\net6.0\refint\sdf.dll
+C:\Users\46645963\Desktop\sdf\obj\Debug\net6.0\sdf.pdb
+C:\Users\46645963\Desktop\sdf\obj\Debug\net6.0\sdf.genruntimeconfig.cache
+C:\Users\46645963\Desktop\sdf\obj\Debug\net6.0\ref\sdf.dll
+D:\Cosas Importantes Agus\programacion\prog_creaciondeclases\bin\Debug\net6.0\sdf.exe
+D:\Cosas Importantes Agus\programacion\prog_creaciondeclases\bin\Debug\net6.0\sdf.deps.json
+D:\Cosas Importantes Agus\programacion\prog_creaciondeclases\bin\Debug\net6.0\sdf.runtimeconfig.json
+D:\Cosas Importantes Agus\programacion\prog_creaciondeclases\bin\Debug\net6.0\sdf.dll
+D:\Cosas Importantes Agus\programacion\prog_creaciondeclases\bin\Debug\net6.0\sdf.pdb
+D:\Cosas Importantes Agus\programacion\prog_creaciondeclases\obj\Debug\net6.0\sdf.csproj.AssemblyReference.cache
+D:\Cosas Importantes Agus\programacion\prog_creaciondeclases\obj\Debug\net6.0\sdf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas Importantes Agus\programacion\prog_creaciondeclases\obj\Debug\net6.0\sdf.AssemblyInfoInputs.cache
+D:\Cosas Importantes Agus\programacion\prog_creaciondeclases\obj\Debug\net6.0\sdf.AssemblyInfo.cs
+D:\Cosas Importantes Agus\programacion\prog_creaciondeclases\obj\Debug\net6.0\sdf.csproj.CoreCompileInputs.cache
+D:\Cosas Importantes Agus\programacion\prog_creaciondeclases\obj\Debug\net6.0\sdf.dll
+D:\Cosas Importantes Agus\programacion\prog_creaciondeclases\obj\Debug\net6.0\refint\sdf.dll
+D:\Cosas Importantes Agus\programacion\prog_creaciondeclases\obj\Debug\net6.0\sdf.pdb
+D:\Cosas Importantes Agus\programacion\prog_creaciondeclases\obj\Debug\net6.0\sdf.genruntimeconfig.cache
+D:\Cosas Importantes Agus\programacion\prog_creaciondeclases\obj\Debug\net6.0\ref\sdf.dll

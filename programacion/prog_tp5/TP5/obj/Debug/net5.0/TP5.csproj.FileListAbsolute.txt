@@ -1,0 +1,152 @@
+C:\Users\46645963\Desktop\TP5\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\46645963\Desktop\TP5\bin\Debug\net5.0\appsettings.json
+C:\Users\46645963\Desktop\TP5\bin\Debug\net5.0\TP5.exe
+C:\Users\46645963\Desktop\TP5\bin\Debug\net5.0\TP5.deps.json
+C:\Users\46645963\Desktop\TP5\bin\Debug\net5.0\TP5.runtimeconfig.json
+C:\Users\46645963\Desktop\TP5\bin\Debug\net5.0\TP5.runtimeconfig.dev.json
+C:\Users\46645963\Desktop\TP5\bin\Debug\net5.0\TP5.dll
+C:\Users\46645963\Desktop\TP5\bin\Debug\net5.0\ref\TP5.dll
+C:\Users\46645963\Desktop\TP5\bin\Debug\net5.0\TP5.pdb
+C:\Users\46645963\Desktop\TP5\bin\Debug\net5.0\TP5.Views.dll
+C:\Users\46645963\Desktop\TP5\bin\Debug\net5.0\TP5.Views.pdb
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.csprojAssemblyReference.cache
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.AssemblyInfoInputs.cache
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.AssemblyInfo.cs
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.csproj.CoreCompileInputs.cache
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.RazorAssemblyInfo.cache
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.RazorAssemblyInfo.cs
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\staticwebassets\TP5.StaticWebAssets.Manifest.cache
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\staticwebassets\TP5.StaticWebAssets.xml
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\scopedcss\bundle\TP5.styles.css
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.TagHelpers.input.cache
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.TagHelpers.output.cache
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.RazorCoreGenerate.cache
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\Razor\Views\Home\Juego.cshtml.g.cs
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\Razor\Views\Home\Nivel1.cshtml.g.cs
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\Razor\Views\Home\Nivel2.cshtml.g.cs
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\Razor\Views\Home\Nivel21.cshtml.g.cs
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\Razor\Views\Home\Tutorial.cshtml.g.cs
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.RazorTargetAssemblyInfo.cache
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.RazorTargetAssemblyInfo.cs
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.Views.pdb
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.dll
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\ref\TP5.dll
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.pdb
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.genruntimeconfig.cache
+C:\Users\46645963\Desktop\TP5\obj\Debug\net5.0\TP5.csproj.CopyComplete
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\appsettings.Development.json
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\appsettings.json
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\TP5.exe
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\TP5.deps.json
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\TP5.runtimeconfig.json
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\TP5.runtimeconfig.dev.json
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\TP5.dll
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\TP5.pdb
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\TP5.Views.dll
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\TP5.Views.pdb
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.AssemblyInfoInputs.cache
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.AssemblyInfo.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.csproj.CoreCompileInputs.cache
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.MvcApplicationPartsAssemblyInfo.cache
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.RazorAssemblyInfo.cache
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.RazorAssemblyInfo.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\staticwebassets\TP5.StaticWebAssets.Manifest.cache
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\scopedcss\bundle\TP5.styles.css
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.TagHelpers.input.cache
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.TagHelpers.output.cache
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.RazorCoreGenerate.cache
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Juego.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Nivel1.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Nivel2.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Tutorial.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.RazorTargetAssemblyInfo.cache
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.RazorTargetAssemblyInfo.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.Views.pdb
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.dll
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\ref\TP5.dll
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.pdb
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.genruntimeconfig.cache
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.csproj.CopyComplete
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.csproj.AssemblyReference.cache
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Nivel4.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Tutorial1.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Tutorial2.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Tutorial3.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Tutorial4.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Tutorial5.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\refint\TP5.dll
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Nivel3.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Nivel5.cshtml.g.cs
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Nivel6.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\appsettings.Development.json
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\appsettings.json
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\TP5.exe
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\TP5.deps.json
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\TP5.runtimeconfig.json
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\TP5.runtimeconfig.dev.json
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\TP5.dll
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\TP5.pdb
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\TP5.Views.dll
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\bin\Debug\net5.0\TP5.Views.pdb
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.csproj.AssemblyReference.cache
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.AssemblyInfoInputs.cache
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.AssemblyInfo.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.csproj.CoreCompileInputs.cache
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.MvcApplicationPartsAssemblyInfo.cache
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.RazorAssemblyInfo.cache
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.RazorAssemblyInfo.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\scopedcss\bundle\TP5.styles.css
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\staticwebassets\TP5.StaticWebAssets.Manifest.cache
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.TagHelpers.input.cache
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.TagHelpers.output.cache
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.RazorCoreGenerate.cache
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Juego.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Nivel1.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Nivel2.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Nivel3.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Nivel4.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Nivel5.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Nivel6.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Tutorial.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Tutorial1.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Tutorial2.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Tutorial3.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Tutorial4.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Home\Tutorial5.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.RazorTargetAssemblyInfo.cache
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.RazorTargetAssemblyInfo.cs
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.Views.pdb
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.dll
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\refint\TP5.dll
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.pdb
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.genruntimeconfig.cache
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\ref\TP5.dll
+E:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\TP5.csproj.CopyComplete
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\staticwebassets\TP5.StaticWebAssets.Pack.cache
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\staticwebassets\msbuild.TP5.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\staticwebassets\msbuild.build.TP5.props
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.TP5.props
+D:\Cosas Importantes Agus\programacion\prog_tp5\TP5\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.TP5.props

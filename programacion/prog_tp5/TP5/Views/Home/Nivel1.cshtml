@@ -1,0 +1,14 @@
+<div class="text-center">
+  <h1 class="display-4">Nivel 1</h1>
+  <iframe width="795" height="690" frameborder="0" src="https://es.educaplay.com/juego/12237288-crucigrama_consolas.html"></iframe>
+
+  <h4>Para pasar esta sala tienes que ingresar la primera letra de la quinta palabra,la sexta letra de la primera palabra, la primera letra de la sexta palabra y la tercera letra de la tercera palabra</h4>
+  <div class="text-center">
+  <form class="form-inline" method='post' action='@Url.Action("Correcion","Home")'>
+    <input class="form-control mr-sm-2" type="search" name="clave" placeholder="Juego" aria-label="Search" autocomplete="off">
+    <input type="hidden" name="sala" value="1" >
+    <input class="btn btn-outline-primary my-2 my-sm-0" type="submit" value="Ingresar">
+  </form>
+  <h4>@ViewBag.MensajeError</h4>
+  </div>
+</div>

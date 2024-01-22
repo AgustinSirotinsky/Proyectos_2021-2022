@@ -1,0 +1,11 @@
+@{
+    ViewData["Title"]="Agregar Jugador";
+}
+<form method="post" action='@Url.Action("GuardarJugador","home")' enctype="multipart/form-data">
+    <input type="hidden" name="idEquipo" value="@ViewBag.idEquipo"><br>
+    Nombre: <input type="text" name="Nombre" autocomplete="off"><br>
+    Fecha nacimiento: <input type="Date" name="FechaNacimiento" autocomplete="off"><br>
+    Archivo de la imagen: <input type="File" name="myFile"><br>
+    Equipo Actual: <input type="text" name="EquipoActual" autocomplete="off"><br>
+    <button type="submit">Agregar</button>
+</form>

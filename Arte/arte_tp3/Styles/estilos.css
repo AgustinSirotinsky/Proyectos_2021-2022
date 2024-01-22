@@ -1,0 +1,49 @@
+body {
+    font-family: "Azul";
+}
+h2 {
+    text-decoration: underline;
+    color:blue;
+}
+h3 {
+    color:blue;
+}
+.Contenedor {
+    margin-left:10%;
+}
+.Contenedor2 {
+    margin-left:25%;
+    margin-top:-10%
+}
+.Contenedor3 {
+    margin-left:25%;
+    margin-top:-20%
+}
+.datos {
+    margin-right:20%;
+    float: right;
+    size:300%;
+}
+.NombreYApellido{
+    float: left;
+}
+.FechaDeNacimiento{
+    margin-left:50px;
+    float: left;
+}
+.DNI{
+    margin-left:50px;
+    float:left;
+}
+.Casado{
+    margin-left:50px;
+    float: left;
+}
+.Imagenes {
+    margin-top: 200px;
+    float: top;
+}
+.FotoIsla {
+    margin-left:20%;
+    color: darkmagenta;
+}

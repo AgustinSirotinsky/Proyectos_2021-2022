@@ -1,0 +1,64 @@
+D:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.exe
+D:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.deps.json
+D:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.runtimeconfig.json
+D:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.runtimeconfig.dev.json
+D:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.dll
+D:\programacion\tp1 prueba\bin\Debug\net5.0\ref\tp1 prueba.dll
+D:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.pdb
+D:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.csprojAssemblyReference.cache
+D:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.AssemblyInfoInputs.cache
+D:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.AssemblyInfo.cs
+D:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.csproj.CoreCompileInputs.cache
+D:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.dll
+D:\programacion\tp1 prueba\obj\Debug\net5.0\ref\tp1 prueba.dll
+D:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.pdb
+D:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.genruntimeconfig.cache
+E:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.exe
+E:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.deps.json
+E:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.runtimeconfig.json
+E:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.runtimeconfig.dev.json
+E:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.dll
+E:\programacion\tp1 prueba\bin\Debug\net5.0\ref\tp1 prueba.dll
+E:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.pdb
+E:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.csprojAssemblyReference.cache
+E:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.AssemblyInfoInputs.cache
+E:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.AssemblyInfo.cs
+E:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.csproj.CoreCompileInputs.cache
+E:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.dll
+E:\programacion\tp1 prueba\obj\Debug\net5.0\ref\tp1 prueba.dll
+E:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.pdb
+E:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.genruntimeconfig.cache
+F:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.exe
+F:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.deps.json
+F:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.runtimeconfig.json
+F:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.runtimeconfig.dev.json
+F:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.dll
+F:\programacion\tp1 prueba\bin\Debug\net5.0\ref\tp1 prueba.dll
+F:\programacion\tp1 prueba\bin\Debug\net5.0\tp1 prueba.pdb
+F:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.csproj.AssemblyReference.cache
+F:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.GeneratedMSBuildEditorConfig.editorconfig
+F:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.AssemblyInfoInputs.cache
+F:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.AssemblyInfo.cs
+F:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.csproj.CoreCompileInputs.cache
+F:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.dll
+F:\programacion\tp1 prueba\obj\Debug\net5.0\ref\tp1 prueba.dll
+F:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.pdb
+F:\programacion\tp1 prueba\obj\Debug\net5.0\tp1 prueba.genruntimeconfig.cache
+D:\Cosas Importantes Agus\programacion\prog_tp1\bin\Debug\net5.0\tp1 prueba.exe
+D:\Cosas Importantes Agus\programacion\prog_tp1\bin\Debug\net5.0\tp1 prueba.deps.json
+D:\Cosas Importantes Agus\programacion\prog_tp1\bin\Debug\net5.0\tp1 prueba.runtimeconfig.json
+D:\Cosas Importantes Agus\programacion\prog_tp1\bin\Debug\net5.0\tp1 prueba.runtimeconfig.dev.json
+D:\Cosas Importantes Agus\programacion\prog_tp1\bin\Debug\net5.0\tp1 prueba.dll
+D:\Cosas Importantes Agus\programacion\prog_tp1\bin\Debug\net5.0\tp1 prueba.pdb
+D:\Cosas Importantes Agus\programacion\prog_tp1\obj\Debug\net5.0\tp1 prueba.csproj.AssemblyReference.cache
+D:\Cosas Importantes Agus\programacion\prog_tp1\obj\Debug\net5.0\tp1 prueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosas Importantes Agus\programacion\prog_tp1\obj\Debug\net5.0\tp1 prueba.AssemblyInfoInputs.cache
+D:\Cosas Importantes Agus\programacion\prog_tp1\obj\Debug\net5.0\tp1 prueba.AssemblyInfo.cs
+D:\Cosas Importantes Agus\programacion\prog_tp1\obj\Debug\net5.0\tp1 prueba.csproj.CoreCompileInputs.cache
+D:\Cosas Importantes Agus\programacion\prog_tp1\obj\Debug\net5.0\tp1 prueba.dll
+D:\Cosas Importantes Agus\programacion\prog_tp1\obj\Debug\net5.0\refint\tp1 prueba.dll
+D:\Cosas Importantes Agus\programacion\prog_tp1\obj\Debug\net5.0\tp1 prueba.pdb
+D:\Cosas Importantes Agus\programacion\prog_tp1\obj\Debug\net5.0\tp1 prueba.genruntimeconfig.cache
+D:\Cosas Importantes Agus\programacion\prog_tp1\obj\Debug\net5.0\ref\tp1 prueba.dll
